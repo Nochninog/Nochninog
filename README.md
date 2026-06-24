@@ -46,7 +46,7 @@ An application for analyzing and visualizing the distribution of various real es
 - Database management with **PostgreSQL** via **SQLAlchemy**
 - Built interactive charts and visualizations using **Chart.js**
 
-[https://github.com/DariaZzz/RealEstateAnalysis](https://github.com/DariaZzz/RealEstateAnalysis) (I'm a contributor)
+[https://github.com/Nochninog/RealEstateAnalysis](https://github.com/Nochninog/RealEstateAnalysis) (I'm a contributor)
 
 ---
 
