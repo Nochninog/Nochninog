@@ -49,15 +49,3 @@ An application for analyzing and visualizing the distribution of various real es
 [https://github.com/Nochninog/RealEstateAnalysis](https://github.com/Nochninog/RealEstateAnalysis)
 
 ---
-
-### Digital Breakthrough Hackathon — Participant
-*September 2024*
-
-Automatic video tag generation application.
-
-**Frontend Development:**
-- Developed the UI using vanilla **HTML/JS/CSS**
-- Implemented file upload functionality
-- Integrated with backend API
-
-[https://github.com/DariaZzz/hackathon_video_tagging](https://github.com/DariaZzz/hackathon_video_tagging) (I'm a contributor)
