@@ -4,6 +4,24 @@ MIREA student, backend developer.
 
 ## Projects
 
+### Corporate Knowledge Base Search
+*November 2026*
+
+A diploma project that combines retrieval-augmented generation (RAG) with linked Wiki pages to answer questions about corporate documents and cite the original sources.
+
+**Backend/AI Development:**
+- Built two **FastAPI** services for document ingestion, Wiki management, and question answering
+- Designed and implemented a **LangGraph** search pipeline that retrieves document and Wiki fragments, merges the results, follows Wiki links with an LLM, and selects documents for the final answer
+- Used **PostgreSQL** for metadata and Wiki pages, **MinIO** for original files, and **Weaviate** for vector search
+- Configured local deployment with **Docker Compose**
+
+**Frontend:**
+- Built a **React** frontend for uploading documents, browsing Wiki pages, and asking questions
+
+[https://github.com/Nochninog/CorpDB](https://github.com/Nochninog/CorpDB)
+
+---
+
 ### Educational Archive System with LLM
 *May 2026*
 
